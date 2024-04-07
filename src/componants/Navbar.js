@@ -25,8 +25,8 @@ function Navbar() {
 
         {/* Navbar links */}
         <div className="hidden md:block">
-          <a href="#" className="text-white hover:text-gray-300 ml-3">Home</a>
-          <a href="#" className="text-white hover:text-gray-300 ml-3">Schedule a Meeting</a>
+          <a href="home" className="text-white hover:text-gray-300 ml-3">Home</a>
+          <a href="meeting" className="text-white hover:text-gray-300 ml-3">Schedule a Meeting</a>
           <button onClick={scrollToAbout} className="mx-4 text-white">About Us</button>
           <button onClick={scrollToContact} className="mx-4 text-white">Contact Us</button>
           
