@@ -1,0 +1,14 @@
+{
+    "metting":[
+        {
+        "meetingDate":"",
+        "meetingTime":"",
+        "name":"",
+        "email":"",
+        "guestEmail":"",
+        "numberOfGuests":"",
+        "notes":"",
+        "workplace":""
+        }
+    ]
+}
